@@ -1,5 +1,3 @@
-CD \gat3
-
 del *.bak /s /q
 del *.pdf /s /q 
 del *.mem /s /q 
